@@ -1,4 +1,4 @@
-public class LinearSearch{
+public class bs {
     public static void  main(String[] args) {
         int[] arr={3,2,1,0,4,5,6};
         int x=50;
